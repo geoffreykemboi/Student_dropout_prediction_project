@@ -1,7 +1,7 @@
 # Analysis of Student Dropout Determinants in Kenyan Higher Education
 
 ##  Project Overview
-This project addresses the critical challenge of student attrition within the Kenyan higher education system. By analyzing a dataset of over 13,000 students, the study identifies the complex interplay between academic performance, financial stability, and demographic factors.
+This project addresses the critical challenge of student attrition within the Kenyan higher education system. By analyzing a dataset of over 100,000 students, the study identifies the complex interplay between academic performance, financial stability, and demographic factors.
 
 ##  Problem Identification
 The core objective is to mitigate the socio-economic costs of student dropouts. The analysis focuses on:
