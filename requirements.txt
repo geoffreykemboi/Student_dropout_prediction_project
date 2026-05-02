@@ -1,10 +1,6 @@
-echo "streamlit
+streamlit
 xgboost
 scikit-learn
 pandas
 numpy
-joblib" > requirements.txt
-
-git add requirements.txt
-git commit -m "Add requirements.txt"
-git push origin main
+joblib
